@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+    <TextView
+        android:id="@+id/slide_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/slide_image"
+        android:layout_marginEnd="@dimen/slider_margin"
+        android:layout_marginStart="@dimen/slider_margin"
+        android:layout_marginTop="@dimen/features_margin"
+        android:layout_margin="20dp"
+        android:text="@string/app_name"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/slider_text_size" />
+    <ImageView
+        android:id="@+id/slide_image"
+        android:layout_width="300dp"
+        android:layout_height="@dimen/features_image_height"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/slider_margin_top"
+        android:src="@mipmap/geo_cloud" />
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="splash_screen_text_1">LOCATION AWARE</string>
+    <string name="splash_screen_text_2">FILE SHARING</string>
+    <string name="title_activity_features">GeoShare</string>
+    <string name="action_settings">LOGOUT</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_button">LOGIN</string>
+    <string name="new_user_register_button">New User ? Register Here !</string>
+    <string name="name_register">NAME</string>
+    <string name="confirm_password_register">CONFIRM PASSWORD</string>
+    <string name="register_button">REGISTER</string>
+    <string name="existing_user_login_button">Existing User ? Login Here !</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_not_match_password">This password does not match entered password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_radius">This field should be a number</string>
+    <string name="download_key">Download using the access key</string>
+    <string name="enter_key">Enter the access key</string>
+    <string name="upload_a_file">Upload a file</string>
+    <string name="select_your_file">Select your file</string>
+    <string name="enter_the_access_key">Enter the Access Key to protect </string>
+    <string name="enter_the_radius">Enter the radius</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

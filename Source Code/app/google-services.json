@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "467392700372",
+    "firebase_url": "https://location-aware-file-sharing.firebaseio.com",
+    "project_id": "location-aware-file-sharing",
+    "storage_bucket": "location-aware-file-sharing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467392700372:android:5dc8258d5edb903e",
+        "android_client_info": {
+          "package_name": "com.sharing.files.geoshare.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467392700372-c44bg1ah3apqflhqhttb2aq0tc35kq4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharing.files.geoshare.app",
+            "certificate_hash": "33ba21a036f550dc8fffb537296c723f3c63703f"
+          }
+        },
+        {
+          "client_id": "467392700372-hdqk63pen7946ruvc6pufo61ohqum72f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWMx0pgjQW9LmMPFJT6Ke3BSZbgWJveU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467392700372-hdqk63pen7946ruvc6pufo61ohqum72f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

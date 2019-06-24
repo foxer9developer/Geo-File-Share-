@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_screen_text">44sp</dimen>
+    <dimen name="image_height">355dp</dimen>
+    <dimen name="features_margin">50dp</dimen>
+    <dimen name="slider_margin_top">100dp</dimen>
+    <dimen name="slider_margin">25dp</dimen>
+    <dimen name="slider_text_size">25sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_margin_bottom">8dp</dimen>
+    <dimen name="features_image_height">200dp</dimen>
+</resources>
